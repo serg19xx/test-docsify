@@ -2,8 +2,7 @@
   console.log('Hi Serg !!!!!')
 </script>
 
-# Learn Docsify 
-### Learn the docsify start from beginner.
+# PetBook social network system
+### Full documentation
 
-[Start Learn]()
-[Github](#/README)
+[Application description](/ApplicationDescription/)
